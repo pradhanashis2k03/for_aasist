@@ -5284,7 +5284,6 @@ file27152.wav_16k.wav_norm.wav_mono.wav_silence bonafide
 file1379.wav_16k.wav_norm.wav_mono.wav_silence bonafide
 file26927.wav_16k.wav_norm.wav_mono.wav_silence bonafide
 file2260.wav_16k.wav_norm.wav_mono.wav_silence bonafide
-file16304.wav_16k.wav_norm.wav_mono.wav_silence.wav_b bonafide
 file6344.wav_16k.wav_norm.wav_mono.wav_silence.wav_b bonafide
 file18399.wav_16k.wav_norm.wav_mono.wav_silence.wav_b bonafide
 file13047.wav_16k.wav_norm.wav_mono.wav_silence.wav_b bonafide
